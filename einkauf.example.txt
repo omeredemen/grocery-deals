@@ -1,0 +1,10 @@
+# Example shopping list for: deals plan --plz 10115 --list-file einkauf.example.txt
+# One item per line (or comma-separated). Optional amount, "bio", "1,5%", "+word" filters.
+Milch 2l
+Eier 10
+Bananen
+Kaffee 500g
+Butter
+Nudeln 500g
+Hackfleisch 500g
+Äpfel bio
